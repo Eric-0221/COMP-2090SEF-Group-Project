@@ -12,15 +12,14 @@ Designed for campus scenarios, this system implements core functions including i
 - Min-heap implementatoin + Heap sort algorithm (self-study content)
 ### (5). Interface
 - Console menu-based interaction, simple and user-friendly
-## 3. Flie Structure
-### 
-campus-borrow-system/
-|-- item.py
-|-- user.py
-|-- borrow_system.py
-|-- heap_study.py
-|-- main.py
-|-- README.md
+## 3. Flie Structure 
+- campus-borrow-system/
+- |-- item.py
+- |-- user.py
+- |-- borrow_system.py
+- |-- heap_study.py
+- |-- main.py
+- |-- README.md
 ## 4. Technical Hightlights
 ### (1). Object-Oriented Programming
 - Encapsulatoin: Private attributes + public getter methods
@@ -34,9 +33,7 @@ campus-borrow-system/
 ### (4). Modular Design
 - Files spit by responsibility, low coupling, easy maintenance and extansion
 ## 5. Environment Requirements
-### 
 - Python 3.6 +
-### 
 - No third-party dependencies; runs with stansard libraries only
 ## 6. Quick Start
 ### (1). Clone/Download the Project
